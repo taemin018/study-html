@@ -1,0 +1,52 @@
+#a{
+    display: flex;
+    margin-bottom:48px;
+    justify-content: center;
+    align-items: center;
+}
+#b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kakao{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+
+.naver{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+}
+
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fna{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputemail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
